@@ -11,9 +11,7 @@
   </a>
   <a href="https://linkedin.com/in/cemil-yasar-6817b42b0">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/Backend-Developer-orange?style=for-the-badge" />
-</p>
+  </a></p>
 
 ---
 
