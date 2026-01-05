@@ -1,103 +1,91 @@
-# 👋 Merhaba, Ben Cemil Yaşar!
+# 👋 Hi, I'm Cemil Yaşar
 
-🎯 **Junior Web Developer** | PHP & Laravel Uzmanı | Bilişim Güvenliği Teknolojisi Mezunu
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f3ff?style=for-the-badge&logo=react&logoColor=white)](https://cemilyasar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemil-yasar-6817b42b0/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cemilyasargo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CemilYsr)
+🎓 **BSc in Information Security Technologies** (Graduated as Top Student)  
+💻 **Junior Web Developer | Backend-Focused**  
+🚀 Actively developing projects using **PHP & Laravel**
 
 ---
 
-## 🚀 Teknoloji Stack'im
+## 🧑‍💻 About Me
 
-### **Backend Development**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
+I am a backend-oriented web developer who focuses on building solid foundations rather than superficial solutions.  
+During my university education, I specialized in **algorithms, backend development, and database management**.
 
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+I completed my internship at **MorePayroll Kenacademy**, where I actively worked on **PHP-based projects** and gained real-world experience in:
+- CRUD operations  
+- Form handling  
+- Database integrations  
+- Hosting and cPanel management  
 
-### **Diğer Teknolojiler**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+Thanks to my background in information security, I approach backend development with a **security-aware mindset**.
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 🛠️ Technologies & Tools
 
-![Cemil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CemilYsr&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CemilYsr&layout=compact&theme=radical&hide_border=true)
+### Backend & Web
+- **PHP**, **Laravel**
+- RESTful API Integration
+- Session & Cookie Management
+- Validation & Middleware
+- MySQL / SQL
 
----
+### Frontend
+- HTML5, CSS3, Bootstrap
+- JavaScript
 
-## 🏆 Başarılar
+### Mobile
+- Flutter (Basic Level)
+- Firebase (Auth, Firestore)
 
-- **Giresun Üniversitesi** - Bilişim Güvenliği Teknolojisi Bölüm Birincisi (2025)
-- **MorePayroll Kenacademy** - Yazılım Stajyeri (PHP tabanlı projeler)
-- **Giresun Üniversitesi** - Teknik Destek Uzmanı
-
----
-
-## 💼 Öne Çıkan Projelerim
-
-### 🚗 [Araç Kiralama Yönetim Sistemi](https://github.com/CemilYsr/vehicle-rental-system)
-> Laravel & MySQL ile geliştirilen kapsamlı araç kiralama platformu
-- **Teknolojiler:** Laravel, PHP, MySQL, Bootstrap, JavaScript
-- **Özellikler:** Admin paneli, CRUD işlemleri, rezervasyon sistemi, kullanıcı yönetimi
-
-### 🌤️ [Gerçek Zamanlı Hava Durumu Uygulaması](https://github.com/CemilYsr/weather-app-api)
-> API entegrasyonlu, konum bazlı hava durumu tahmini
-- **Teknolojiler:** Laravel, WeatherAPI, AJAX, Chart.js
-- **Özellikler:** 5 günlük tahmin, saatlik veriler, JSON veri işleme
-
-### 🏙️ [Türkiye Şehir Bilgi Platformu](https://github.com/CemilYsr/turkey-city-info)
-> Türkiye'nin 81 ili ve ilçeleri için detaylı bilgi sistemi
-- **Teknolojiler:** Laravel, MySQL, Leaflet.js, DataTables
-- **Özellikler:** API entegrasyonu, interaktif harita, nüfus verileri
-
-### 📧 [Gelişmiş Email Marketing Sistemi](https://github.com/CemilYsr/laravel-mail-sender)
-> Toplu email gönderim platformu
-- **Teknolojiler:** Laravel, SMTP, Queue Jobs, Redis
-- **Özellikler:** Template yönetimi, kullanıcı segmentasyonu, analiz raporları
-
-### 💬 [Realtime Mesajlaşma Uygulaması](https://github.com/CemilYsr/flutter-chat-app)
-> Firebase tabanlı, anlık mesajlaşma uygulaması
-- **Teknolojiler:** Flutter, Firebase, Cloud Firestore, Provider
-- **Özellikler:** Kullanıcı kimlik doğrulama, grup sohbetleri, medya paylaşımı
+### Other
+- Git & GitHub
+- cPanel, Domain & Hosting Management
+- Kali Linux (Basic Security Testing)
+- Python (Basic)
+- C# (Windows Forms)
 
 ---
 
-## 📈 Öğrenme Yolculuğum
+## 📌 Featured Projects
 
-```mermaid
-graph TD
-    A[Başlangıç - Bilişim Güvenliği] --> B[Backend Geliştirme]
-    A --> C[Algoritmalar ve Veri Yapıları]
-    
-    B --> D[PHP & Laravel Uzmanlığı]
-    B --> E[Veritabanı Yönetimi]
-    
-    D --> F[API Geliştirme]
-    D --> G[CRUD Sistemleri]
-    
-    E --> H[MySQL Optimizasyonu]
-    E --> I[PDO & Eloquent]
-    
-    F --> J[RESTful API'lar]
-    G --> K[Middleware & Validation]
-    
-    J --> L[Mikroservis Mimari]
-    K --> M[Güvenlik Best Practices]
-    
-    L --> N[Senior Backend Developer]
-    M --> N
+### 🚗 Car Rental Management System
+- Developed using Laravel & MySQL
+- Vehicle management with full CRUD functionality
+- Admin panel–based backend architecture
+
+### 🌤️ Weather Application (API Integration)
+- Integrated with third-party RESTful APIs
+- JSON data processing and dynamic data rendering
+
+### 🏙️ City Information System
+- City and population data fetched via external APIs
+- Data filtering and frontend presentation
+
+### 📧 Email Sending System
+- Built with Laravel Mail infrastructure
+- SMTP configuration and dynamic email handling
+
+### 💬 Real-Time Messaging Application
+- Developed using Flutter & Firebase
+- Real-time messaging with instant data synchronization
+- Cross-platform support (Android & iOS)
+- Firebase Authentication & Firestore integration
+
+---
+
+## 🎯 Career Goal
+
+To specialize in backend and web development, continuously improve my skills, and contribute long-term value within a collaborative and growth-oriented development team.
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **cemilyasar90@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/cemil-yasar-6817b42b0](https://linkedin.com/in/cemil-yasar-6817b42b0)
+- 🧑‍💻 GitHub: [github.com/CemilYsr](https://github.com/CemilYsr)
+
+---
+
+⭐ If you find my projects interesting, feel free to leave a star!
