@@ -11,9 +11,10 @@
   </a>
   <a href="https://linkedin.com/in/cemil-yasar-6817b42b0">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-      <a href="https](https://cemilyasar.netlify.app/">
 
-  </a></p>
+  </a>
+        <a href="https](https://cemilyasar.netlify.app/">
+</p>
 
 ---
 
