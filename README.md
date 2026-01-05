@@ -1,108 +1,103 @@
-<h1 align="center">Hi 👋, I'm Cemil Yaşar</h1>
-<h3 align="center">A passionate Junior Full Stack Developer from Turkey</h3>
+# 👋 Merhaba, Ben Cemil Yaşar!
 
-<p align="center">
-  <a href="https://lucent-truffle-3b6c5c.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:burak.ysr16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/burak_yasarr16" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+🎯 **Junior Web Developer** | PHP & Laravel Uzmanı | Bilişim Güvenliği Teknolojisi Mezunu
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f3ff?style=for-the-badge&logo=react&logoColor=white)](https://cemilyasar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemil-yasar-6817b42b0/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cemilyasargo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CemilYsr)
 
 ---
 
-### 🚀 About Me
+## 🚀 Teknoloji Stack'im
 
-- 🔭 I'm currently working on *Ruj Falı mobile app* - AI-powered lip color analysis with Flutter
-- 🌱 I'm currently learning *Flutter and Laravel*
-- 👨‍💻 Check out my portfolio: **https://burakyasar.netlify.app/**
-- 💬 Ask me about *Node.js, HTML, CSS, JavaScript, and PHP*
-- 📫 How to reach me: *burak.ysr16@gmail.com*
-- ⚡ Fun fact: I love creating interactive web applications and mobile apps
+### **Backend Development**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### 🛠️ Technologies & Tools
-
-#### Frontend Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</p>
-
-#### Backend Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-</p>
-
-#### Mobile & Other Technologies
-<p>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</p>
+### **Diğer Teknolojiler**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DJmovie12&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJmovie12&theme=radical" alt="GitHub Streak" />
-</p>
+![Cemil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CemilYsr&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CemilYsr&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-### 🌟 Featured Projects
+## 🏆 Başarılar
 
-#### 🤖 Ruj Falı Mobile App
-- *Flutter* based mobile application
-- AI-powered lip color analysis
-- Personalized fortune telling based on personality traits
-
-#### ⚓ Online Battleship Game
-- *Node.js & Socket.io* real-time multiplayer game
-- Online/Offline modes
-- Real-time player interaction
-
-#### 🌐 Smart Translate App
-- Text and PDF translation application
-- *JavaScript & API* integration
-- PDF content extraction and translation
-
-#### 🎯 Discord Coordinate Bot
-- *JavaScript & Discord.js* bot
-- Smart coordinate matching algorithm
-- Finds nearest coordinates from random accounts
+- **Giresun Üniversitesi** - Bilişim Güvenliği Teknolojisi Bölüm Birincisi (2025)
+- **MorePayroll Kenacademy** - Yazılım Stajyeri (PHP tabanlı projeler)
+- **Giresun Üniversitesi** - Teknik Destek Uzmanı
 
 ---
 
-### 📫 Connect With Me
+## 💼 Öne Çıkan Projelerim
 
-<p align="left">
-  <a href="https://instagram.com/burak_yasarr16" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burak_yasarr16" height="30" width="40" />
-  </a>
-  <a href="mailto:burak.ysr16@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="burak.ysr16@gmail.com" height="30" width="40" />
-  </a>
-</p>
+### 🚗 [Araç Kiralama Yönetim Sistemi](https://github.com/CemilYsr/vehicle-rental-system)
+> Laravel & MySQL ile geliştirilen kapsamlı araç kiralama platformu
+- **Teknolojiler:** Laravel, PHP, MySQL, Bootstrap, JavaScript
+- **Özellikler:** Admin paneli, CRUD işlemleri, rezervasyon sistemi, kullanıcı yönetimi
+
+### 🌤️ [Gerçek Zamanlı Hava Durumu Uygulaması](https://github.com/CemilYsr/weather-app-api)
+> API entegrasyonlu, konum bazlı hava durumu tahmini
+- **Teknolojiler:** Laravel, WeatherAPI, AJAX, Chart.js
+- **Özellikler:** 5 günlük tahmin, saatlik veriler, JSON veri işleme
+
+### 🏙️ [Türkiye Şehir Bilgi Platformu](https://github.com/CemilYsr/turkey-city-info)
+> Türkiye'nin 81 ili ve ilçeleri için detaylı bilgi sistemi
+- **Teknolojiler:** Laravel, MySQL, Leaflet.js, DataTables
+- **Özellikler:** API entegrasyonu, interaktif harita, nüfus verileri
+
+### 📧 [Gelişmiş Email Marketing Sistemi](https://github.com/CemilYsr/laravel-mail-sender)
+> Toplu email gönderim platformu
+- **Teknolojiler:** Laravel, SMTP, Queue Jobs, Redis
+- **Özellikler:** Template yönetimi, kullanıcı segmentasyonu, analiz raporları
+
+### 💬 [Realtime Mesajlaşma Uygulaması](https://github.com/CemilYsr/flutter-chat-app)
+> Firebase tabanlı, anlık mesajlaşma uygulaması
+- **Teknolojiler:** Flutter, Firebase, Cloud Firestore, Provider
+- **Özellikler:** Kullanıcı kimlik doğrulama, grup sohbetleri, medya paylaşımı
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 📈 Öğrenme Yolculuğum
+
+```mermaid
+graph TD
+    A[Başlangıç - Bilişim Güvenliği] --> B[Backend Geliştirme]
+    A --> C[Algoritmalar ve Veri Yapıları]
+    
+    B --> D[PHP & Laravel Uzmanlığı]
+    B --> E[Veritabanı Yönetimi]
+    
+    D --> F[API Geliştirme]
+    D --> G[CRUD Sistemleri]
+    
+    E --> H[MySQL Optimizasyonu]
+    E --> I[PDO & Eloquent]
+    
+    F --> J[RESTful API'lar]
+    G --> K[Middleware & Validation]
+    
+    J --> L[Mikroservis Mimari]
+    K --> M[Güvenlik Best Practices]
+    
+    L --> N[Senior Backend Developer]
+    M --> N
