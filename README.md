@@ -1,91 +1,123 @@
-# 👋 Hi, I'm Cemil Yaşar
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-🎓 **BSc in Information Security Technologies** (Graduated as Top Student)  
-💻 **Junior Web Developer | Backend-Focused**  
-🚀 Actively developing projects using **PHP & Laravel**
+<h1 align="center">Hi 👋 I'm Cemil Yaşar</h1>
+<h3 align="center">Junior Web Developer | Backend Focused 🚀</h3>
 
----
-
-## 🧑‍💻 About Me
-
-I am a backend-oriented web developer who focuses on building solid foundations rather than superficial solutions.  
-During my university education, I specialized in **algorithms, backend development, and database management**.
-
-I completed my internship at **MorePayroll Kenacademy**, where I actively worked on **PHP-based projects** and gained real-world experience in:
-- CRUD operations  
-- Form handling  
-- Database integrations  
-- Hosting and cPanel management  
-
-Thanks to my background in information security, I approach backend development with a **security-aware mindset**.
+<p align="center">
+  <a href="https://github.com/CemilYsr">
+    <img src="https://img.shields.io/github/followers/CemilYsr?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/cemil-yasar-6817b42b0">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Backend-Developer-orange?style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 👨‍💻 About Me
 
-### Backend & Web
-- **PHP**, **Laravel**
-- RESTful API Integration
-- Session & Cookie Management
-- Validation & Middleware
-- MySQL / SQL
+💻 Backend-focused **Junior Web Developer**  
+🎓 BSc in **Information Security Technologies** *(Top Graduate)*  
+🔐 Security-aware development mindset  
+🚀 Passionate about PHP, Laravel & real-world projects
 
-### Frontend
-- HTML5, CSS3, Bootstrap
-- JavaScript
-
-### Mobile
-- Flutter (Basic Level)
-- Firebase (Auth, Firestore)
-
-### Other
-- Git & GitHub
-- cPanel, Domain & Hosting Management
-- Kali Linux (Basic Security Testing)
-- Python (Basic)
-- C# (Windows Forms)
+I focus on building **clean, scalable, and secure backend systems** instead of surface-level solutions.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
+
+### 💡 Backend
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 📱 Mobile & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-Security-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🚗 Car Rental Management System
-- Developed using Laravel & MySQL
-- Vehicle management with full CRUD functionality
-- Admin panel–based backend architecture
-
-### 🌤️ Weather Application (API Integration)
-- Integrated with third-party RESTful APIs
-- JSON data processing and dynamic data rendering
-
-### 🏙️ City Information System
-- City and population data fetched via external APIs
-- Data filtering and frontend presentation
-
-### 📧 Email Sending System
-- Built with Laravel Mail infrastructure
-- SMTP configuration and dynamic email handling
-
-### 💬 Real-Time Messaging Application
-- Developed using Flutter & Firebase
-- Real-time messaging with instant data synchronization
-- Cross-platform support (Android & iOS)
-- Firebase Authentication & Firestore integration
+🛠 Laravel & MySQL  
+🔹 Admin panel  
+🔹 Full CRUD operations  
+🔹 Backend-focused architecture  
 
 ---
 
-## 🎯 Career Goal
+### 🌤 Weather App – API Integration
+🔌 RESTful API consumption  
+📊 JSON data processing  
+⚡ Dynamic UI updates  
 
-To specialize in backend and web development, continuously improve my skills, and contribute long-term value within a collaborative and growth-oriented development team.
+---
+
+### 🏙 City Information System
+🌐 External API integration  
+📍 City & population data  
+🧠 Data filtering & presentation  
+
+---
+
+### 📧 Email Sending System
+📨 Laravel Mail  
+🔐 SMTP configuration  
+📄 Dynamic form-based email sending  
+
+---
+
+### 💬 Real-Time Messaging App
+📱 Flutter & Firebase  
+⚡ Real-time messaging  
+🔑 Firebase Authentication  
+☁ Firestore database  
+
+---
+
+## 🎯 Goals
+
+🎯 Become a **specialized backend developer**  
+📈 Improve system design & architecture skills  
+🤝 Join a team where I can grow and contribute long-term  
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: **cemilyasar90@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/cemil-yasar-6817b42b0](https://linkedin.com/in/cemil-yasar-6817b42b0)
-- 🧑‍💻 GitHub: [github.com/CemilYsr](https://github.com/CemilYsr)
+<p>
+  <a href="mailto:cemilyasar90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/cemil-yasar-6817b42b0">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
-⭐ If you find my projects interesting, feel free to leave a star!
+⭐ **If you like my profile, don’t forget to star my repositories!**
