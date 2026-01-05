@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Cemil Yaşar</h1>
-<h3 align="center">Junior Web Developer | Backend Focused 🚀</h3>
+<h3 align="center">Junior Web Developer </h3>
 
 <p align="center">
   <a href="https://github.com/CemilYsr">
