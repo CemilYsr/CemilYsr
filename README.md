@@ -3,18 +3,22 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Cemil Yaşar</h1>
-<h3 align="center">Junior Web Developer </h3>
+<h3 align="center">Junior Web Developer</h3>
 
 <p align="center">
   <a href="https://github.com/CemilYsr">
     <img src="https://img.shields.io/github/followers/CemilYsr?label=Followers&style=for-the-badge" />
   </a>
+
   <a href="https://linkedin.com/in/cemil-yasar-6817b42b0">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-
   </a>
-        <a href="https](https://cemilyasar.netlify.app/">
+
+  <a href="https://cemilyasar.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
+
 
 ---
 
